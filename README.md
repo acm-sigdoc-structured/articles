@@ -1,2 +1,3 @@
-# articles
-A workspace to write and review articles.
+# Contribution process
+
+WIP

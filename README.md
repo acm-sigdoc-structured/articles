@@ -1,3 +1,1 @@
-# Contribution process
-
-WIP
+# DELETE ME

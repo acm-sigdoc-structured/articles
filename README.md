@@ -34,9 +34,9 @@ After your pull request is approved and merged, your draft appears in `initial_d
 
 Now, you can proceed to the next step by creating a copy of `initial_draft` named `myarticle2` and making any changes you need to it. When you are ready for technical review, follow the same steps as previously.
 
-After approval, you can merge the pull request and your tech reviewed article will appear in the `technical_review` branch. Repeat the process 
+After approval, you can merge the pull request and your tech reviewed article will appear in the `technical_review` branch. Repeat the process the remaining review steps.
 
-You can find a detailed breakdown in the following topics.
+You can find a detailed breakdown in the following topics:
 
 # Markdown workflow
 

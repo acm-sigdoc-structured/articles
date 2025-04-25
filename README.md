@@ -118,11 +118,11 @@ You will receive editorial review during this process. Complete the following st
 
 2. In your working branch, commit any changes you want to your `<article_name>.md` to prepare for editorial review.
 
-4. Create a pull request. Use your working branch `<your_initials>_instruct` as the **compare** and use `instructional_review` as the the **base**.
+3. Create a pull request. Use your working branch `<your_initials>_instruct` as the **compare** and use `instructional_review` as the the **base**.
 
-5. Wait for a reviewer to approve your pull request. Address any comments as needed.
+4. Wait for a reviewer to approve your pull request. Address any comments as needed.
 
-6. After you receive approval, merge your pull request.
+5. After you receive approval, merge your pull request.
 
 ## Final draft
 

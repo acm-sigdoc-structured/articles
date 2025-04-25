@@ -50,7 +50,7 @@ See the following topics to learn how to upload your article and get it reviewed
 
 ### Workflow
 
-An initial draft is required before you can receive review. Complete the following steps to get your new article into the `initial_draft` branch:
+An initial draft is required before you can receive reviews. Complete the following steps to get your new article into the `initial_draft` branch:
 
 1. Create a new working branch. Use `initial_draft` as your **Base**. Name it using the following temple: `<your_initials>_new`
 

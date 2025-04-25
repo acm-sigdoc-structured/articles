@@ -52,7 +52,7 @@ See the following topics to learn how to upload your article and get it reviewed
 
 An initial draft is required before you can receive reviews. Complete the following steps to get your new article into the `initial_draft` branch:
 
-1. Create a new working branch. Use `initial_draft` as your **Base**. Name it using the following temple: `<your_initials>_new`
+1. Create a new working branch. Use `initial_draft` as your **Base**. Name it using the following template: `<your_initials>_new`
 
 2. In your working branch, create a `<article_name>.md` file in `/article/<author_name>`
 
@@ -74,7 +74,7 @@ An initial draft is required before you can receive reviews. Complete the follow
 
 You will receive technical review during this process. Complete the following steps to get your initial draft into the `technical_review` branch:
 
-1. Create a new working branch. Use `initial_draft` as your **Base**. Name it using the following temple: `<your_initials>_tech`
+1. Create a new working branch. Use `initial_draft` as your **Base**. Name it using the following template: `<your_initials>_tech`
 
 2. In your working branch, commit any changes you want to your `<article_name>.md` to prepare to tehcnical review.
 
@@ -94,7 +94,7 @@ You will receive technical review during this process. Complete the following st
 
 You will receive instructional review during this process. Complete the following steps to get your initial draft into the `instructional_review` branch:
 
-1. Create a new working branch. Use `technical_review` as your **Base**. Name it using the following temple: `<your_initials>_instruct`
+1. Create a new working branch. Use `technical_review` as your **Base**. Name it using the following template: `<your_initials>_instruct`
 
 2. In your working branch, commit any changes you want to your `<article_name>.md` to prepare for instructional review.
 
@@ -114,7 +114,7 @@ You will receive instructional review during this process. Complete the followin
 
 You will receive editorial review during this process. Complete the following steps to get your initial draft into the `editorial_review` branch:
 
-1. Create a new working branch. Use `instructional_review` as your **Base**. Name it using the following temple: `<your_initials>_edit`
+1. Create a new working branch. Use `instructional_review` as your **Base**. Name it using the following template: `<your_initials>_edit`
 
 2. In your working branch, commit any changes you want to your `<article_name>.md` to prepare for editorial review.
 

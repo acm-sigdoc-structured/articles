@@ -28,11 +28,11 @@ To progress to the next step in the review process, create a pull request using 
 
 Your working branch can always be a copy of the latest review step branch that your article was merged into.
 
-For example, if you do not have a draft yet, you can create a branch named `my_working_branch`. In that branch, write your article as a Markdown file. When you are ready for your draft to appear in the `initial_draft` branch, create a pull request with `myarticle1` as your source and `initial_draft` as your destination.
+For example, if you do not have a draft yet, you can create a branch named `my_working_branch`. In that branch, write your article as a Markdown file. When you are ready for your draft to appear in the `initial_draft` branch, create a pull request with `my_working_branch` as your source and `initial_draft` as your destination.
 
 The review occurs in the pull request. The reviewer can add comments, make suggestions, and directly approve the pull request.
 
-After your pull request is approved and merged, your draft appears in `initial_draft` and you can delete the `myarticle1` branch.
+After your pull request is approved and merged, your draft appears in `initial_draft` and you can delete the `my_working_branch` branch.
 
 Now, you can proceed to the next step by creating a copy of `initial_draft` as your new working branch. Make any changes you need to it. When you are ready for technical review, follow the same steps as previously.
 

@@ -26,7 +26,7 @@ To progress to the next step in the review process, create a pull request using 
 
 Your working branch can always be a copy of the latest review step branch that your article was merged into.
 
-For example, if you do not have a draft yet, you can create a branch named `myarticle1`. In that branch, write your article or upload it as a `.docx` file. Once you are ready for you draft to appear in the `initial_draft` branch, create a pull request with `myarticle1` as your source and `initial_draft` as your destination.
+For example, if you do not have a draft yet, you can create a branch named `myarticle1`. In that branch, write your article. Once you are ready for you draft to appear in the `initial_draft` branch, create a pull request with `myarticle1` as your source and `initial_draft` as your destination.
 
 The review occurs in the pull request. The reviewer can add comments, make suggestions, and directly approve the pull request.
 
@@ -133,10 +133,6 @@ You will receive editorial review during this process. Complete the following st
 ### Workflow
 
 You can add your article directly to `final_draft` when it is ready for publishing.
-
-# Microsoft Word workflow
-
-WIP
 
 # Guide for reviewers
 

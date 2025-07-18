@@ -1,6 +1,6 @@
 # ACM SIGDOC Structured Authoring article
 
-Articles that ACM SIGDOC Stuructured Authoring committee members write are hosted on this repository. Reviews take place by using the branching system, which separates articles into different branches during their review lifecycle. The final version of the articles and other resources are published on our committee resources website:
+Markdown articles that ACM SIGDOC Stuructured Authoring committee members write are hosted on this repository. Reviews take place by using the branching system, which separates articles into different branches during their review lifecycle. The final version of the articles and other resources are published on our committee resources website:
 
 - [ACM SIGDOC Structured Authoring Committee Resources](https://acm-sigdoc-structured.org/index.html)
 
@@ -10,7 +10,7 @@ Before you contribute, reach out to us at authors@acm-sigdoc-structured.org. Aft
 
 # General workflow
 
-We support articles written in Markdown or Microsoft Word. Regardless of what format you choose, the workflow process is broken down into five steps that are represented by branches respectively:
+We support articles written in Markdown. The workflow process is broken down into the following five steps, which you can access as branches in the repo:
 
 - `initial_draft`
 - `technical_review`
@@ -18,7 +18,9 @@ We support articles written in Markdown or Microsoft Word. Regardless of what fo
 - `editorial_review`
 - `final_draft`
 
-Each branch is structured by the author, meaning you must create a folder with your name in each branch, if it doesn't exist yet. You can add additional subfolder for organization, but you don't have to.
+Every branch has a folder with the author name, which contains the articles that the author writes. You can add your folder and name if there is none yet.
+
+**Optional:** You can add additional subfolder to help organize your articles.
 
 You must create your own new working branch at every step and work on your draft in that branch. Your working branch is always a copy of the latest review step branch that your draft was accepted into.
 
@@ -26,21 +28,19 @@ To progress to the next step in the review process, create a pull request using 
 
 Your working branch can always be a copy of the latest review step branch that your article was merged into.
 
-For example, if you do not have a draft yet, you can create a branch named `myarticle1`. In that branch, write your article. Once you are ready for you draft to appear in the `initial_draft` branch, create a pull request with `myarticle1` as your source and `initial_draft` as your destination.
+For example, if you do not have a draft yet, you can create a branch named `my_working_branch`. In that branch, write your article as a Markdown file. When you are ready for your draft to appear in the `initial_draft` branch, create a pull request with `myarticle1` as your source and `initial_draft` as your destination.
 
 The review occurs in the pull request. The reviewer can add comments, make suggestions, and directly approve the pull request.
 
 After your pull request is approved and merged, your draft appears in `initial_draft` and you can delete the `myarticle1` branch.
 
-Now, you can proceed to the next step by creating a copy of `initial_draft` named `myarticle2` and making any changes you need to it. When you are ready for technical review, follow the same steps as previously.
-
-After approval, you can merge the pull request and your tech reviewed article will appear in the `technical_review` branch. Repeat the process the remaining review steps.
+Now, you can proceed to the next step by creating a copy of `initial_draft` as your new working branch. Make any changes you need to it. When you are ready for technical review, follow the same steps as previously.
 
 You can find a detailed breakdown in the following topics:
 
-# Markdown workflow
+# Detailed article lifecycle
 
-See the following topics to learn how to upload your article and get it reviewed.
+See the following topics to learn how to write your article and get it reviewed. Each of the following topics represents of the review steps.
 
 ## Initial draft
 

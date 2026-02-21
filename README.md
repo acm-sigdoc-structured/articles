@@ -1,6 +1,6 @@
 # ACM SIGDOC Structured Authoring article
 
-Markdown articles that ACM SIGDOC Stuructured Authoring committee members write are hosted on this repository. Reviews take place by using the branching system, which separates articles into different branches during their review lifecycle. The final version of the articles and other resources are published on our committee resources website:
+Markdown articles that ACM SIGDOC Structured Authoring committee members write are hosted on this repository. Reviews take place by using the branching system, which separates articles into different branches during their review lifecycle. The final version of the articles and other resources are published on our committee resources website:
 
 - [ACM SIGDOC Structured Authoring Committee Resources](https://acm-sigdoc-structured.org/index.html)
 
